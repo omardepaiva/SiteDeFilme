@@ -1,0 +1,39 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+  background-image: linear-gradient(
+    to right,
+    rgb(255, 60, 0),
+    rgb(255, 145, 0)
+  );
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title {
+  font-family: "Sansita Swashed", cursive;
+  color: #ffffff;
+  margin: 0 0 5px;
+  font-size: 50px;
+}
+
+.page-subtitle{
+  font-family: "Sansita Swashed", cursive;
+  color: #ffffff;
+  margin: 0 0 5px;
+  font-size: 30px;
+}
+.page-logo {
+  width: 200px;
+}
+
+body > img {
+  margin: 0 4px;
+}
+
+img {
+  max-height: 200px;
+}
